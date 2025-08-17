@@ -1,0 +1,14 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+
+# IntelliJ IDEA project files
+.idea/
+*.iml
+
+# Maven build output
+target/
+
+# Other temporary files
+*.log
+*.cache
